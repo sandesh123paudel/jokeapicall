@@ -1,4 +1,4 @@
-# joke
+# A simple Joke App
 
 A new Flutter project.
 
